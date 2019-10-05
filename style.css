@@ -16,3 +16,11 @@
 body {
     background-color: black;
 }
+
+#logo {
+    width: 100px;
+    height: 100px;
+    background: white;
+    background-image: url("https://image.flaticon.com/icons/png/512/40/40541.png");
+    background-size: 100%;
+}
