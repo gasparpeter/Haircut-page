@@ -18,9 +18,28 @@ body {
 }
 
 #logo {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     background: white;
     background-image: url("https://image.flaticon.com/icons/png/512/40/40541.png");
     background-size: 100%;
+}
+
+h1 {
+    font-size: 20px;
+    margin: auto;
+    color: white;
+}
+
+.image {
+    width: 180px;
+    height: 230px;
+    border: 1px solid white;
+    display: inline-block;
+    margin: 16px;
+}
+
+#mans {
+    position: relative;
+    left: 83px;
 }
