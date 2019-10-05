@@ -1,0 +1,18 @@
+#header {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+#body {
+    width: 99vw;
+    height: 800px;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("https://images.squarespace-cdn.com/content/v1/5cd9d27f840b16669a850ca3/1557795744556-K4OHMPGMAVP0QBK8MN3E/ke17ZwdGBToddI8pDm48kP8VQ8qlVqwk_QT5FAymW9d7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZrwG2UoTO-LAuHBXIn7DjXpzv7JrEEnjpClQgNcWMNIJvwGh1qtNWvMhYKnvaKhbA/Screen+Shot+2019-05-13+at+8.07.40+PM.png?format=2500w");
+    background-size: 50%;
+}
+
+body {
+    background-color: black;
+}
