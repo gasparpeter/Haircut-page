@@ -23,6 +23,8 @@ body {
     background: white;
     background-image: url("https://image.flaticon.com/icons/png/512/40/40541.png");
     background-size: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -43,3 +45,36 @@ h1 {
     position: relative;
     left: 83px;
 }
+
+#womans {
+    position: relative;
+    left: 83px;
+    display: none;
+}
+
+#manOption {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    background-image: url("https://www.menshairstyletrends.com/wp-content/uploads/2019/03/jediclippertricks-best-mens-hairstyles-2019-crop.jpg");
+    background-size: 100%;
+    top: 0;
+    left: 300px;
+    border-radius: 50%;
+    margin: 5px;
+}
+#womanOption {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    background-image: url("http://pophaircuts.com/images/2013/07/Work-Hairstyle-for-Long-Hair-Women-Haircuts.jpg");
+    background-size: 100%;
+    top: 0;
+    left: 300px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+ .menuIcon {
+     display: inline-block;
+ }
