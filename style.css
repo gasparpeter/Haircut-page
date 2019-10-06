@@ -44,23 +44,27 @@ h1 {
     background-size: 100%;
 }
 
+.image:hover {
+    border: 1px solid #346668;
+}
+
 #mans {
     position: relative;
     left: 83px;
-    display: none;
+
 }
 
 #womans {
     position: relative;
     left: 83px;
-
+    display: none;
 }
 
 #manOption {
     width: 90px;
     height: 90px;
     position: relative;
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),  url("https://www.menshairstyletrends.com/wp-content/uploads/2019/03/jediclippertricks-best-mens-hairstyles-2019-crop.jpg");
+    background-image: url("https://www.menshairstyletrends.com/wp-content/uploads/2019/03/jediclippertricks-best-mens-hairstyles-2019-crop.jpg");
     background-size: 100%;
     top: 0;
     left: 300px;
@@ -72,7 +76,7 @@ h1 {
     width: 90px;
     height: 90px;
     position: relative;
-    background-image: url("http://pophaircuts.com/images/2013/07/Work-Hairstyle-for-Long-Hair-Women-Haircuts.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),  url("http://pophaircuts.com/images/2013/07/Work-Hairstyle-for-Long-Hair-Women-Haircuts.jpg");
     background-size: 100%;
     top: 0;
     left: 300px;
